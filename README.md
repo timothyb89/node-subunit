@@ -5,6 +5,11 @@ Provides utilities for reading and writing
 [Subunit streams](https://github.com/testing-cabal/subunit) with Node.js,
 targeting Node versions 0.10 (pre-packaged on Ubuntu Trusty) and higher.
 
+**WARNING: This package has been moved into the
+[testing-cabal](https://github.com/testing-cabal) namespace and renamed
+to [subunit-js](https://github.com/testing-cabal/subunit-js). Future updates
+will only occur in that repository.**
+
 Installation
 ------------
 
